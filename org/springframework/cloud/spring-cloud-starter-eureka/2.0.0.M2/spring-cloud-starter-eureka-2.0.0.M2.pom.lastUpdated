@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 15 22:54:57 IST 2018
+@default-central-https\://repo1.maven.org/maven2/.lastUpdated=1521134696832
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1521134697941
+https\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-starter-eureka\:pom\:2.0.0.M2 from/to central (https\://repo1.maven.org/maven2)\: Connection reset
+https\://repo.spring.io/snapshot/.lastUpdated=1521134697238
